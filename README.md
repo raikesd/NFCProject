@@ -4,7 +4,7 @@ NFCProject
 CS9223 - mobile security NFC team project
 
 Work Assignments:
-Brandi WAS HERE:
+Brandi:
 	overview
 	security
 
