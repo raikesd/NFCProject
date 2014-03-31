@@ -1,0 +1,30 @@
+<Treepad version 3.0>
+dt=Text
+<node>
+near field communication
+0
+Zimmerman, Thoams Guthrie. "Personal area networks: near-field intrabody communication." IBM systems Journal 35.3.4 (1996): 609-617.
+
+Haselsteiner, Ernst, and Klemens Breitfuﬂ. "Security in near field communication (NFC)." Workshop on RFID security. 2006.
+
+Mulliner, Collin. "Vulnerability analysis and attacks on NFC-enabled mobile phones." Availability, Reliability and Security, 2009. ARES'09. International Conference on. IEEE, 2009.
+
+Francis, Lishoy, et al. "Practical NFC peer-to-peer relay attack using mobile phones." Radio Frequency Identification: 
+Security and Privacy Issues. Springer Berlin Heidelberg, 2010. 35-49.
+
+Savry, Olivier, et al. "RFID Noisy Reader How to Prevent from Eavesdropping on the Communication?." 
+Cryptographic Hardware and Embedded Systems-CHES 2007. Springer Berlin Heidelberg, 2007. 334-345.
+
+Van Damme, Gauthier, Karel Wouters, and Bart Preneel. "Practical Experiences with NFC Security on mobile 
+Phones." Proceedings of the RFIDSec 9 (2009).
+http://code.google.com/p/nfc-eclipse-plugin/wiki/GettingStartedAndroid
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+experimentation
+1
+http://code.google.com/p/nfc-eclipse-plugin/wiki/GettingStartedAndroid
+http://readwrite.com/2013/11/07/android-kitkat-developers-users#awesm=~ozu4nJgKyqatBQ
+
+<end node> 5P9i0s8y19Z
