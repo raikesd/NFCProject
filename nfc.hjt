@@ -19,6 +19,17 @@ Van Damme, Gauthier, Karel Wouters, and Bart Preneel. "Practical Experiences wit
 Phones." Proceedings of the RFIDSec 9 (2009).
 http://code.google.com/p/nfc-eclipse-plugin/wiki/GettingStartedAndroid
 
+What is NFC? How does NFC work? For what might you use NFC? - a quick guide to NFC - PC Advisor
+http://www.pcadvisor.co.uk/how-to/mobile-phone/3472879/what-is-nfc-how-nfc-works-what-it-does/
+
+How it Works: NFC (near field communication)
+http://www.androidauthority.com/how-it-works-nfc-near-field-communication-97144/
+Everything You Need to Know About Near Field Communication | Popular Science
+http://www.popsci.com/gadgets/article/2011-02/near-field-communication-helping-your-smartphone-replace-your-wallet-2010
+
+near field communication - What NFC protocol is used to read information on a Passport? - Information Security Stack Exchange
+http://security.stackexchange.com/questions/30772/what-nfc-protocol-is-used-to-read-information-on-a-passport
+
 <end node> 5P9i0s8y19Z
 dt=Text
 <node>
@@ -26,5 +37,29 @@ experimentation
 1
 http://code.google.com/p/nfc-eclipse-plugin/wiki/GettingStartedAndroid
 http://readwrite.com/2013/11/07/android-kitkat-developers-users#awesm=~ozu4nJgKyqatBQ
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+technical details
+1
+NFC is an outgrowth of RFID. NFC uses electromagnetic induction to transmit information.
+It is faster than bluetooth, and can be used to induce electric current in passive devices like nfc tags in stores.
+
+NFC can also be used to transmit information between two active NFC-enabled devices or to read information from or write information to a passive device.
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+uses of NFC
+1
+Share information between smartphones by simply touching them together.
+
+Use a smartphone as a contactless credit/debit card at a cashregister.
+
+future uses:
+Home automation unlock your house and turn on lights/heat when your nfc-enabled device passes a sensor on the driveway (but since the devices have to be so close together to work is this practical)?
+Replace traditional wallet since al l payments could be made using your nfc-enabled device.
+embed a medical history tag in a person's skin whichthe doctor could scan at his office and get your entire medical history including  things like blood pressure insulin levels that are registered real-time using sensors in the embedded tag.  (what about the HIPA ramifications of this kind of technology)?
 
 <end node> 5P9i0s8y19Z
