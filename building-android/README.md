@@ -9,3 +9,6 @@ Files:
 	scripts/envsetup.sh:	Install necessary packages for the build process.
 
 Resources:
+	One More Thing: Building AOSP on Ubuntu 12.04
+	http://aleksmaus.blogspot.com/2012/05/bulding-aosp-on-ubuntu-1204.html
+
