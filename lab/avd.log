@@ -1,0 +1,42 @@
+D/dalvikvm(  169): GC_CONCURRENT freed 411K, 6% free 9503K/10055K, paused 4ms+5ms
+I/OPENNFC_SERVER(  557): 00046 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 EVT-READER_TARGET_DISCOVERED (len=0x0D) 05 00 00 00 00 00 00 00 00 71 80 00 00
+I/OPENNFC_SERVER(  557): 00047 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x0E) 18 00 A4 04 00 07 D2 76 00 00 85 01 01 00
+D/NfcManager(  557): error=0
+I/OPENNFC_SERVER(  557): 00048 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x0D) 6F 09 84 07 D2 76 00 00 85 01 01 90 00
+I/OPENNFC_SERVER(  557): 00049 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x08) 18 00 A4 00 0C 02 E1 03
+D/NfcManager(  557): error=0
+I/OPENNFC_SERVER(  557): 00050 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x0F) 6F 0B 80 02 00 0F 82 01 01 83 02 E1 03 90 00
+I/OPENNFC_SERVER(  557): 00051 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x06) 18 00 B0 00 00 02
+I/OPENNFC_SERVER(  557): 00052 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x04) 00 0F 90 00
+D/NfcManager(  557): error=0
+I/OPENNFC_SERVER(  557): 00053 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x06) 18 00 B0 00 00 0F
+I/OPENNFC_SERVER(  557): 00054 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x11) 00 0F 20 00 FF 00 FF 04 06 E1 04 03 FB 00 00 90 00
+D/NfcManager(  557): error=0
+I/OPENNFC_SERVER(  557): 00055 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x08) 18 00 A4 00 0C 02 E1 04
+I/OPENNFC_SERVER(  557): 00056 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x0F) 6F 0B 80 02 00 15 82 01 01 83 02 E1 04 90 00
+D/NfcManager(  557): error=0
+I/OPENNFC_SERVER(  557): 00057 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x06) 18 00 B0 00 00 02
+I/OPENNFC_SERVER(  557): 00058 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x04) 00 13 90 00
+D/NfcManager(  557): error=0
+D/NfcManager(  557): error=0
+I/OPENNFC_SERVER(  557): 00059 LOG   NAL   : ND->NFCC  NAL-READER_14_B-4 CMD-READER_XCHG_DATA (len=0x06) 18 00 B0 00 02 13
+I/OPENNFC_SERVER(  557): 00060 LOG   NAL   : ND<-NFCC  NAL-READER_14_B-4 ANS-RES_OK (len=0x15) D1 01 0F 55 00 77 77 77 2E 67 6F 6F 67 6C 65 2E 63 6F 6D 90 00
+D/NfcManager(  557): error=0
+I/System.out(  557): flags: -47
+I/System.out(  557): type length: 1
+I/System.out(  557): payload length: 15
+I/System.out(  557): id length: 0
+I/System.out(  557): type: U
+I/System.out(  557): reading identifier...  0
+I/System.out(  557): identifier is null
+I/System.out(  557): reading payload...   15
+D/NfcManager(  557): checkError 0 : 1
+D/NfcManager(  557): checkErrorAndException 0 : 1
+D/NfcManager(  557): checkErrorAndException 0 : 2
+D/NfcManager(  557): checkError 0 : 2
+D/NfcManager(  557): checkError 0 : 1
+D/NfcManager(  557): checkErrorAndException 0 : 1
+D/NfcManager(  557): checkErrorAndException 0 : 2
+D/NfcManager(  557): checkError 0 : 2
+W/ThrottleService(   83): unable to find stats for iface rmnet0
+D/dalvikvm(  169): GC_CONCURRENT freed 429K, 6% free 9482K/10055K, paused 9ms+5ms
